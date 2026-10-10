@@ -1,0 +1,6 @@
+{
+  "name": "Aura Salon — Haute Beauté Concierge",
+  "description": "Bespoke salon booking and digital concierge experience supporting iOS and Android with complete interactive customer flows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
